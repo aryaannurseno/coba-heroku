@@ -13,6 +13,7 @@
     "mongodb": "^3.1.13",
     "node-cron": "^2.0.3",
     "request": "^2.88.0",
-    "request-promise": "^4.2.2"
+    "request-promise": "^4.2.2",
+    "restify": "^7.7.0"
   }
 }

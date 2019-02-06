@@ -19,7 +19,6 @@ server.use(restify.plugins.acceptParser(server.acceptable));
 server.use(restify.plugins.queryParser());
 server.use(restify.plugins.bodyParser());
 
-server.post()
 
 
 MongoClient.connect(url, (err, client) => {
